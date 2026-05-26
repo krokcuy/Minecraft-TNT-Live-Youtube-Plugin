@@ -1,0 +1,52 @@
+CUSTOM PREVIEW / COMMERCIAL LICENSE
+
+Copyright (c) 2026 Crest Services
+
+GitHub: @krokcuy
+
+All rights reserved.
+
+This repository is a public preview and information repository only.
+
+The full source code is private and is not included in this repository.
+
+PERMITTED USE
+
+You are allowed to:
+- View this repository.
+- Read the README file.
+- Use this repository for information purposes only.
+
+RESTRICTED USE
+
+You are not allowed to:
+- Claim this project as your own.
+- Resell this preview repository.
+- Redistribute this repository as a full product.
+- Remove author credits.
+- Upload modified versions as your own.
+- Use this project name to scam others.
+- Sell fake copies of this project.
+- Copy the README, branding or license for misleading purposes.
+- Reverse engineer, leak or distribute any private full version if obtained.
+
+FULL VERSION
+
+The full working version is private.
+
+Commercial usage, redistribution rights, resale rights, custom development rights or access to the full version require direct permission from Crest Services.
+
+NO WARRANTY
+
+This repository is provided as-is.
+
+Crest Services is not responsible for any damage, misuse, data loss, server issues, financial loss or other problems caused by using, editing or distributing this repository.
+
+TERMINATION
+
+If you violate this license, your permission to use or view this repository is automatically terminated.
+
+AUTHOR
+
+Created by Crest Services
+GitHub: @krokcuy
