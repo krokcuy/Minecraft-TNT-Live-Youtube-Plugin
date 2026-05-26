@@ -12,7 +12,7 @@
 
 ## ⚠️ Important Notice
 
-● You **cannot run the plugin using the `.py` code from this repository**.
+● You **cannot run the plugin using the `.java` code from this repository**.
 
 ● This repository only contains a **preview / information file**.
 
